@@ -28,7 +28,7 @@ jobs:
           node-version: '16'
 
       - name: Install Webapp Dependencies
-      - run: npm ci
+        run: npm ci
       
       - name: Run Test
-      - run: npm test
+        run: npm test
