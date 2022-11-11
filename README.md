@@ -3,7 +3,7 @@ A Small Node.js Primer for Continuous Integration and Continuous Deployment
 
 ## Status
 
-[![Node CI](https://github.com/ADolbyB/ci-cd-primer/actions/workflows/main.yml/badge.svg)](https://github.com/ADolbyB/ci-cd-primer/actions/workflows/main.yml)
+[![Node CI](https://github.com/ADolbyB/ci-cd-primer/actions/workflows/integrate.yml/badge.svg)](https://github.com/ADolbyB/ci-cd-primer/actions/workflows/integrate.yml)
 [![Heroku CD](https://github.com/ADolbyB/ci-cd-primer/actions/workflows/deploy.yml/badge.svg)](https://github.com/ADolbyB/ci-cd-primer/actions/workflows/deploy.yml)
 
 Based on this basic [LogRocket tutorial](https://blog.logrocket.com/ci-cd-node-js-github-actions/) using [Heroku](https://www.heroku.com/) for app deployment.
